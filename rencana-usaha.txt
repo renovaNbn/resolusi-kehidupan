@@ -2,4 +2,6 @@ rencana usaha
 - kedai kopi
  * kursi dan meja yang berbeda beda
  * kopi dari citarasa nusantara
+ - kopi gayo
+ - kopi bali
 - bengkel motor
