@@ -1,0 +1,4 @@
+rencana usaha
+- kedai kopi
+ * kursi dan meja yang berbeda beda
+- bengkel motor
